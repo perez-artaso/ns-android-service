@@ -1,0 +1,13 @@
+<ActionBar>
+    <Label text="Home"></Label>
+</ActionBar>
+
+<FlexboxLayout id="container">
+    <ActivityIndicator *ngIf="!_is_player_ready" [busy]="!_is_player_ready" width="300"></ActivityIndicator>
+    <Button
+    *ngIf="_is_player_ready"
+    text="Switch Play/Pause"
+    (tap)="toggle_player()"
+    >
+    </Button>
+</FlexboxLayout>

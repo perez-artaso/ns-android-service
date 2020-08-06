@@ -1,0 +1,11 @@
+#container {
+    align-items: center;
+    justify-content: center;
+}
+
+#container Button {
+    background-color: blue;
+    width: 600;
+    height: 300;
+    font-size: 50;
+}
