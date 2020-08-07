@@ -1,0 +1,5 @@
+F:\NativeScript\ns-android-service\platforms\android\app\src\main\assets\app\0.js
+F:\NativeScript\ns-android-service\platforms\android\app\src\main\assets\app\bundle.js
+F:\NativeScript\ns-android-service\platforms\android\app\src\main\assets\app\runtime.js
+F:\NativeScript\ns-android-service\platforms\android\app\src\main\assets\app\tns-java-classes.js
+F:\NativeScript\ns-android-service\platforms\android\app\src\main\assets\app\vendor.js

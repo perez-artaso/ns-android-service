@@ -1,0 +1,14 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.nativescript.nativescript_audio"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk android:targetSdkVersion="26" />
+7-->F:\NativeScript\ns-android-service\platforms\tempPlugin\nativescript_audio\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+9-->F:\NativeScript\ns-android-service\platforms\tempPlugin\nativescript_audio\src\main\AndroidManifest.xml:3:3-68
+9-->F:\NativeScript\ns-android-service\platforms\tempPlugin\nativescript_audio\src\main\AndroidManifest.xml:3:20-66
+10
+11</manifest>

@@ -1,0 +1,12 @@
+{
+	"@nativescript/core": {
+		"F:\\NativeScript\\ns-android-service\\node_modules\\@nativescript\\core\\platforms\\android\\native-api-usage.json": "34ee0e9771ad7dd9d388c191734d71507a04565a"
+	},
+	"tns-core-modules-widgets": {
+		"F:\\NativeScript\\ns-android-service\\node_modules\\tns-core-modules-widgets\\platforms\\android\\widgets-release.aar": "ea387e7a96a4ccb0df5c645b313c5dcf8042a0bb"
+	},
+	"nativescript-audio": {
+		"F:\\NativeScript\\ns-android-service\\node_modules\\nativescript-audio\\platforms\\android\\AndroidManifest.xml": "00004bc4c425b6dbe747ad3cb9ff274f22a0ddb5",
+		"F:\\NativeScript\\ns-android-service\\node_modules\\nativescript-audio\\platforms\\android\\nativescript_audio.aar": "d3b65410872440e0e99c748303157823195ca6cb"
+	}
+}
